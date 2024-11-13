@@ -1,0 +1,24 @@
+{
+  "src_root_dir_name": "Takeout",
+  "src_root_dir_name_regex": "^Takeout$",
+
+  "photo_dir_name": "Google Photos",
+  "photo_dir_name_regex": "^Google Photos$",
+
+  "photos_from_dir": "Photos from ",
+  "photos_from_dir_regex": "^Photos from \\d{4}$",
+
+  "print_order_dir": "Print Order ",
+  "print_order_dir_regex": "^Print Order \\d{21}$",
+
+  "trash_dir_regex": "^Trash",
+
+  "untitled": "^Untitled",
+
+  "image_file_extensions": [".apng", ".png", ".avif", ".gif", ".jpg", ".jpeg", ".jfif", ".pjpeg",
+                                   ".pjp", ".svg", ".webp", ".bmp", ".ico", ".tiff"],
+
+  "video_file_extensions": [".mp3", ".mp4", ".avi"],
+
+  "json_file_extension": [".json"]
+}
