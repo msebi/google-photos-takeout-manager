@@ -16,11 +16,11 @@ And, it's also multithreded :) .
 
 ## Usage 
 
-`git clone 'https://github.com/msebi/google-photos-takeout-manager'`
-`cd google-photos-takeout-manager`
-`# create venv python >= 3.6`
-`python -m venv /path/to/new/virtual/environment`
-`(venv) pip install -r requirements.txt`
+`git clone 'https://github.com/msebi/google-photos-takeout-manager'
+cd google-photos-takeout-manager
+# create venv python >= 3.6
+python -m venv /path/to/new/virtual/environment
+(venv) pip install -r requirements.txt`
 
 and run:
 
